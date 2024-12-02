@@ -19,7 +19,7 @@ Write a Python program that does the following:
 
 Example:
 Code:
-```
+```python
 # Step 1: Define two lists of integers
 list1 = [5, 3, 8, 1]
 list2 = [7, 2, 6, 4]
